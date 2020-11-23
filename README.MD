@@ -27,7 +27,7 @@ The environment can be considered as solved when the agent has more than 15 poin
   conda create --name drlnd python=3.6
   source activate drlnd
   ```
-  -**Windows**
+  - **Windows**
   ```bash
   conda create --name drlnd python=3.6
   activate drlnd
