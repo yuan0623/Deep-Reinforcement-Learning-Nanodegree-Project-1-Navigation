@@ -16,4 +16,8 @@ In this deep network, the hyperparameters are listed as follows:
 ### Plots of Rewards
 ![Plots of Rewards](reward_plot.png)
 ### Idea for future work
-Maybe we need to extend this framework to a continuous infinte action space.
+To further improve the performance of the agent, we have a few options:
+- Double DQN
+- Prioritized experience replay
+- Dueling DQN
+- Rainbow
